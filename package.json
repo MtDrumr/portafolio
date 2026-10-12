@@ -1,0 +1,14 @@
+{
+  "name": "portafolio-excel-powerbi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portafolio de proyectos de Excel y Power BI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
